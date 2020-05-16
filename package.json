@@ -1,6 +1,6 @@
 {
   "name": "focus-visible-polyfill",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A modified version of the WICG polyfill for :focus-visible",
   "main": "focus-visible-polyfill.js"
 }
